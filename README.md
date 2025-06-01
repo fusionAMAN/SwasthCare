@@ -69,6 +69,13 @@ Database: MongoDB
 
 Authentication: JWT with token verification
 
+
+for access->
+user1 
+123456
+master1
+123456
+
 Image Uploads: Handled via separate upload routes
 
 Deployment-Ready: Configured for both local and cloud-based frontend URLs
