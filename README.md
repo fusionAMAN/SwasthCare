@@ -1,4 +1,4 @@
-# SwasthCare -https://amazing-stroopwafel-591a17.netlify.app/
+# SwasthCare -https://grand-mooncake-4b0873.netlify.app/
 🏥 Swasthcare Project
 Swasthcare is a full-stack hospital management system designed to simplify and streamline patient and hospital operations. It features role-based authentication for two main user roles: Admin and Master. Each role has access to specific functionalities to help manage hospital workflows efficiently.
 
